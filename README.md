@@ -9,6 +9,7 @@
 #### 2-  If the applicant is not likely to repay the loan, i.e. he/she is likely to default, then approving the loan may lead to a financial loss for the company.
 ## EDA APPROACH:- 
 ![Screenshot 2024-08-28 100616](https://github.com/user-attachments/assets/80386ca7-14f4-48a1-97dc-bf2070c712f9)
+## DATA CLEANING:-
 ![Screenshot 2024-08-28 100719](https://github.com/user-attachments/assets/7ac22258-c393-4eec-ad88-92d8574cdb2c)
 ![Screenshot 2024-08-28 100734](https://github.com/user-attachments/assets/31572c85-976e-4b02-8ed5-38807d7cee67)
 ![Screenshot 2024-08-28 100749](https://github.com/user-attachments/assets/54bf53e7-0bfa-4c29-9122-0fc44ecd5938)
